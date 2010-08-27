@@ -1,0 +1,5 @@
+D:\GivingGroup\DEV\Spike\ProcessWizard\ProcessWizard\bin\ProcessWizard.dll
+D:\GivingGroup\DEV\Spike\ProcessWizard\ProcessWizard\bin\ProcessWizard.pdb
+D:\GivingGroup\DEV\Spike\ProcessWizard\ProcessWizard\obj\Debug\ResolveAssemblyReference.cache
+D:\GivingGroup\DEV\Spike\ProcessWizard\ProcessWizard\obj\Debug\ProcessWizard.dll
+D:\GivingGroup\DEV\Spike\ProcessWizard\ProcessWizard\obj\Debug\ProcessWizard.pdb
